@@ -1,0 +1,6 @@
+interface:
+  display_name: "达人 GMV 月度更新"
+  short_description: "清洗 TikTok Shop 订单并更新飞书月度与最新达人 GMV 汇总表"
+  default_prompt: "Use $lark-creator-gmv-monthly to clean this order export and update only the requested monthly or latest Creator GMV sheet pair in Feishu."
+policy:
+  allow_implicit_invocation: true

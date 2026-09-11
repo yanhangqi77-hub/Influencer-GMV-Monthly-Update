@@ -1,0 +1,18 @@
+# Local data and generated outputs
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.xlsx
+*.xls
+*.csv
+*.tsv
+preview*/
+outputs/
+manifest.json
+lark-table-payload.json
+lark-styles-payload.json
+*manual-source*.json
+*.local.json

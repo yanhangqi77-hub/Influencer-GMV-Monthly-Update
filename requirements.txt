@@ -1,0 +1,2 @@
+# Core runtime validated for this release; XLS support additionally requires xlrd.
+pandas==3.0.1
