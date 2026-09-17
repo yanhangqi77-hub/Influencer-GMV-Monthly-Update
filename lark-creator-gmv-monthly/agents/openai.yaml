@@ -1,0 +1,6 @@
+interface:
+  display_name: "达人 GMV 更新"
+  short_description: "清洗订单、更新飞书达人GMV，并按月净件数高亮涨佣候选与备注"
+  default_prompt: "Use $lark-creator-gmv-monthly to clean this order export and update only the requested monthly or rolling latest Creator GMV sheet pair in Feishu. Screen commission increase candidates using paid net units after cancellations and refunds/returns; preserve agreed rates and manual notes, highlight candidates, and add review-pending increase remarks."
+policy:
+  allow_implicit_invocation: true

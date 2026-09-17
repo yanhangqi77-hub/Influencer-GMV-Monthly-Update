@@ -1,0 +1,15 @@
+{
+  "version": "2026-08-net-paid-2026-09-15",
+  "source_url": "https://docs.google.com/document/d/1_NO6fNekW6A9qguzUyWGE5l8KL5k58K1IJkzuNYtVxo/edit",
+  "quantity_basis": "paid_less_cancelled_refunded_returned_units",
+  "standard_tiers": [
+    {"minimum_units": 10, "organic_percent": 12, "ad_percent": 4},
+    {"minimum_units": 30, "organic_percent": 13, "ad_percent": 5},
+    {"minimum_units": 80, "organic_percent": 14, "ad_percent": 6},
+    {"minimum_units": 100, "organic_percent": 15, "ad_percent": 7},
+    {"minimum_units": 500, "organic_percent": 18, "ad_percent": 8}
+  ],
+  "premium_tier": {"minimum_units": 100, "organic_percent": 18, "ad_percent": 8},
+  "budget_targets": {"2026-09": 18, "2026-10": 15, "2026-11": 15, "2026-12": 14},
+  "highlight": {"back_color": "#DDEBF7", "fore_color": "#17365D"}
+}
